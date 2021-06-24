@@ -36,7 +36,7 @@
 ![Screen Shot](screenshots/Expense-Tracker-MERN_3.png?raw=true "ScreenShot (Added Data)")
 
 - Mobile Version - ScreenShot 1
-![Screen Shot](screenshots/Expense-Tracker-MERN_4.png?raw=true "ScreenShot (Mobile SS-1)")
+![Screen Shot](screenshots/Expense-Tracker-MERN_4.jpg?raw=true "ScreenShot (Mobile SS-1)")
 
 - Mobile Version - ScreenShot 2
-![Screen Shot](screenshots/Expense-Tracker-MERN_5.png?raw=true "ScreenShot (Mobile SS-1)")
+![Screen Shot](screenshots/Expense-Tracker-MERN_5.jpg?raw=true "ScreenShot (Mobile SS-1)")
